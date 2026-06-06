@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Rohit,a final-year undergraduate Engineering student.
-- 👀 I’m interested in Software Development (Android), Data Science, Machine Learning and Many more Stuff.
-- 🌱 I’m currently learning Android App Development.
-- 💞️ I’m looking for Internships and part-time Android App Developer role.
-- 📫 You can reach me on social media like
+👋 Hi, I'm Rohit Patel
+🏢 System Administrator at Tata Consultancy Services (TCS), Pune
+🚀 Transitioning into ServiceNow Development
+🎯 Currently pursuing ServiceNow CSA Certification
+💻 Hands-on with ServiceNow PDI | ITSM | Incident, Problem & Change Management
+🌱 Learning ServiceNow Scripting | JavaScript | Glide API
+📍 Pune, Maharashtra, India
+📫 Let's connect on LinkedIn!
 LinkedIn:- https://www.linkedin.com/in/rohit-kumar-patel-730753220
 
 
