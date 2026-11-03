@@ -1,112 +1,129 @@
 Hi 👋, I'm Rohit Patel
-System Administrator @ TCS | AWS Certified Solutions Architect | ServiceNow Developer 🚀
-Passionate about Cloud, Automation, ServiceNow Development, and DevOps
+ServiceNow Certified System Administrator (CSA) | ITSM Operations | Workflow Automation
+Building ServiceNow solutions that automate business processes and improve IT service delivery.
 
-🚀 About Me
-💼 Currently working as a System Administrator at Tata Consultancy Services (TCS), Pune
+👨‍💻 About Me
+🔹 ServiceNow Certified System Administrator (CSA)
 
-🌩️ AWS Certified Solutions Architect with hands-on experience in Cloud Fundamentals, Infrastructure, and Automation
+🔹 Systems Engineer @ Tata Consultancy Services (TCS)
 
-🔄 Transitioning from IT Operations & Support into ServiceNow Development and Cloud Engineering
+🔹 2+ years of experience in ITSM Operations
 
-📚 Currently learning:
+🔹 Hands-on experience with Incident, Change & Request Management
 
-ServiceNow Development
-JavaScript & Glide APIs
-Workflow Automation
-DevOps Fundamentals
-Cloud Automation
-🎯 Career Goal: Become a skilled Cloud & ServiceNow Professional by combining System Administration, Cloud Computing, and Enterprise Automation expertise.
+🔹 Experience configuring ServiceNow applications using:
+
+Flow Designer
+Service Catalog
+ACLs
+UI Policies
+Notifications
+Reports & Dashboards
+Import Sets & Transform Maps
+Automated Test Framework (ATF)
+🔹 Passionate about Workflow Automation & Enterprise Service Management
 
 📍 Pune, Maharashtra, India
 
 🛠️ Technical Skills
-☁️ Cloud
-AWS
-IAM
-EC2
-S3
-CloudWatch
-CloudFormation
-CodePipeline
-CodeBuild
-CodeDeploy
-ServiceNow
-ITSM
-Incident Management
-Problem Management
-Change Management
-Service Catalog
+ServiceNow Administration
 Flow Designer
-Business Rules
-Client Scripts
-Glide APIs (Learning)
-System Administration
-Unix Administration
-IBM iSeries
-Access Management
-Batch Monitoring
-Incident Handling
-Production Support
-ITSM & Monitoring Tools
+Service Catalog
+ACLs
+UI Policies
+Notifications
+Reports & Dashboards
+Import Sets
+Transform Maps
+Knowledge Management
+Update Sets
+Automated Test Framework (ATF)
+ITSM Processes
+Incident Management
+Change Management
+Request Fulfilment
+SLA Management
+Major Incident Support
+Tools & Technologies
 ServiceNow
 BMC Remedy
 Control-M
-Programming & Automation
-JavaScript
-Python
-Git
-GitHub
-🚧 Current Learning Journey
-Focus Area	Status
-ServiceNow CSA	🔄 In Progress
-ServiceNow Development	🔄 Active Learning
-JavaScript Scripting	🔄 In Progress
-ServiceNow PDI Projects	🚀 Ongoing
-DevOps Fundamentals	📚 Learning
+Linux / Unix
+AWS Cloud Practitioner
+🚀 Featured ServiceNow Project
+Employee Onboarding Automation Platform
+A complete onboarding solution built in ServiceNow Scoped Application architecture.
+
+Key Features
+✅ Dynamic Service Catalog Form
+
+✅ Multi-Level Approval Workflow
+
+✅ HR, IT & Facilities Task Automation
+
+✅ Flow Designer Automation
+
+✅ Role-Based Access Control (ACLs)
+
+✅ Import Sets & Transform Maps
+
+✅ Reports & Dashboards
+
+✅ Automated Test Framework (ATF)
+
+Technologies Used
+ServiceNow Studio
+Flow Designer
+Service Catalog
+UI Policies
+ACLs
+Import Sets
+Transform Maps
+Notifications
+Knowledge Management
+Git & GitHub
+🔗 Repository: https://github.com/rohu2405/zenvora-onboarding
+
 💼 Professional Experience
-System Administrator | Tata Consultancy Services (TCS)
-📍 Pune, Maharashtra
+Systems Engineer – Integrated Command Center (ICC)
+Tata Consultancy Services (TCS)
+📍 Pune, India
 📅 Aug 2024 – Present
 
-Managed enterprise batch job monitoring through Control-M
-Resolved and tracked production incidents within SLA timelines
-Worked extensively with ServiceNow and BMC Remedy ticketing platforms
-Performed Unix and IBM iSeries user administration tasks
-Coordinated major incident resolution with multiple stakeholders
-Supported critical business applications and operational workflows
-📂 Featured Projects
-🚀 ServiceNow Employee Onboarding Portal
-Automated employee onboarding workflow
-Multi-level approval process
-Catalog items and Flow Designer implementation
-Ongoing development
-🛠️ IT Helpdesk Application
-Custom ticket management solution
-Incident tracking and assignment automation
-Built using ServiceNow platform features
-☁️ AWS Hands-On Labs
-EC2 Deployments
-IAM Administration
-CloudWatch Monitoring
-Infrastructure as Code using CloudFormation
+Resolved 10,000+ IT incidents while maintaining SLA compliance
+Managed 500+ change requests across ServiceNow and BMC Remedy
+Supported Incident, Change, Task and Request Management processes
+Collaborated with Infrastructure and Application teams during major incidents
+Generated operational reports and SLA tracking dashboards
+Monitored 500+ Control-M batch jobs daily
+Supported enterprise-scale production environments
 🏆 Certifications
-✅ AWS Certified Solutions Architect – Associate
+✅ ServiceNow Certified System Administrator (CSA)
 
-✅ Microsoft Certified: Azure AI Fundamentals
+✅ AWS Certified Cloud Practitioner
 
-🎯 ServiceNow Certified System Administrator (CSA) – In Progress
-
-🎯 ServiceNow Certified Application Developer (CAD) – Planned
-
+📚 Current Focus
+Advanced ServiceNow Administration
+ServiceNow Development
+Flow Designer Automation
+Enterprise Workflow Design
+Service Catalog Solutions
+ITSM Best Practices
 📊 GitHub Stats
 GitHub Stats
 
 Top Languages
 
-🌐 Connect With Me
+GitHub Streak
 
-💡 Quote
+🌐 Connect With Me
+LinkedIn
+
+GitHub
+
+ServiceNow
+
+💡 Philosophy
 "Knowledge can never be waste."
 
-⭐ If you like my projects, feel free to star and follow.
+⭐ Thanks for visiting my profile. Feel free to explore my projects and connect with me.
