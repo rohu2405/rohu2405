@@ -1,75 +1,112 @@
-<h1 align="center">Hi 👋, I'm Rohit Patel</h1>
-<h3 align="center">System Administrator @TCS Pune | 
-ServiceNow Developer in Training 🚀</h3>
+Hi 👋, I'm Rohit Patel
+System Administrator @ TCS | AWS Certified Solutions Architect | ServiceNow Developer 🚀
+Passionate about Cloud, Automation, ServiceNow Development, and DevOps
 
----
+🚀 About Me
+💼 Currently working as a System Administrator at Tata Consultancy Services (TCS), Pune
 
-## 👨‍💻 About Me
+🌩️ AWS Certified Solutions Architect with hands-on experience in Cloud Fundamentals, Infrastructure, and Automation
 
-- 🏢 Currently working as **System Administrator at TCS, Pune**
-- 🚀 Transitioning into **ServiceNow Development**
-- 🎯 Pursuing **ServiceNow CSA Certification** (Target: Sep 2026)
-- 🏆 Next Target: **ServiceNow CAD Certification** (Target: Nov 2026)
-- 💻 Hands-on daily practice on **Personal Developer Instance (PDI)**
-- 🌱 Currently learning **JavaScript | Glide API | ServiceNow Scripting**
-- 📍 Pune, Maharashtra, India
+🔄 Transitioning from IT Operations & Support into ServiceNow Development and Cloud Engineering
 
----
+📚 Currently learning:
 
-## 🛠️ Technical Skills
+ServiceNow Development
+JavaScript & Glide APIs
+Workflow Automation
+DevOps Fundamentals
+Cloud Automation
+🎯 Career Goal: Become a skilled Cloud & ServiceNow Professional by combining System Administration, Cloud Computing, and Enterprise Automation expertise.
 
-| Category | Skills |
-|---|---|
-| **ServiceNow** | ITSM, Incident, Problem, Change Management, ServiceNow Admin |
-| **Scripting** | JavaScript, Glide API (Learning) |
-| **ITSM Tools** | ServiceNow, BMC Remedy, Control-M |
-| **Cloud** | AWS Fundamentals, Azure AI Fundamentals ✅ |
-| **OS** | Unix, iSeries |
+📍 Pune, Maharashtra, India
 
----
+🛠️ Technical Skills
+☁️ Cloud
+AWS
+IAM
+EC2
+S3
+CloudWatch
+CloudFormation
+CodePipeline
+CodeBuild
+CodeDeploy
+ServiceNow
+ITSM
+Incident Management
+Problem Management
+Change Management
+Service Catalog
+Flow Designer
+Business Rules
+Client Scripts
+Glide APIs (Learning)
+System Administration
+Unix Administration
+IBM iSeries
+Access Management
+Batch Monitoring
+Incident Handling
+Production Support
+ITSM & Monitoring Tools
+ServiceNow
+BMC Remedy
+Control-M
+Programming & Automation
+JavaScript
+Python
+Git
+GitHub
+🚧 Current Learning Journey
+Focus Area	Status
+ServiceNow CSA	🔄 In Progress
+ServiceNow Development	🔄 Active Learning
+JavaScript Scripting	🔄 In Progress
+ServiceNow PDI Projects	🚀 Ongoing
+DevOps Fundamentals	📚 Learning
+💼 Professional Experience
+System Administrator | Tata Consultancy Services (TCS)
+📍 Pune, Maharashtra
+📅 Aug 2024 – Present
 
-## 🎯 ServiceNow Projects (In Progress)
+Managed enterprise batch job monitoring through Control-M
+Resolved and tracked production incidents within SLA timelines
+Worked extensively with ServiceNow and BMC Remedy ticketing platforms
+Performed Unix and IBM iSeries user administration tasks
+Coordinated major incident resolution with multiple stakeholders
+Supported critical business applications and operational workflows
+📂 Featured Projects
+🚀 ServiceNow Employee Onboarding Portal
+Automated employee onboarding workflow
+Multi-level approval process
+Catalog items and Flow Designer implementation
+Ongoing development
+🛠️ IT Helpdesk Application
+Custom ticket management solution
+Incident tracking and assignment automation
+Built using ServiceNow platform features
+☁️ AWS Hands-On Labs
+EC2 Deployments
+IAM Administration
+CloudWatch Monitoring
+Infrastructure as Code using CloudFormation
+🏆 Certifications
+✅ AWS Certified Solutions Architect – Associate
 
-| Project | Description | Status |
-|---|---|---|
-| IT Helpdesk App | Custom helpdesk built on ServiceNow | 🔨 Building |
-| Employee Onboarding | Multi-step approval workflow | 📅 Coming Soon |
-| Asset Management | Device tracking & alert system | 📅 Coming Soon |
+✅ Microsoft Certified: Azure AI Fundamentals
 
----
+🎯 ServiceNow Certified System Administrator (CSA) – In Progress
 
-## 📜 Certifications
+🎯 ServiceNow Certified Application Developer (CAD) – Planned
 
-- ✅ Microsoft Certified: Azure AI Fundamentals
-- 🎯 ServiceNow CSA — In Progress (Target Sep 2026)
-- 🎯 ServiceNow CAD — Planned (Target Nov 2026)
-- 🎯 AWS CCP — Planned (2027)
+📊 GitHub Stats
+GitHub Stats
 
----
+Top Languages
 
-## 💼 Professional Experience
+🌐 Connect With Me
 
-**System Administrator — Tata Consultancy Services (TCS)**
-📅 Aug 2024 – Present | 📍 Pune, Maharashtra
+💡 Quote
+"Knowledge can never be waste."
 
-- Managed batch job monitoring using Control-M (40-60 failures/day)
-- Handled ITSM processes via ServiceNow & BMC Remedy
-- Coordinated major incidents & outages with stakeholders
-- Administered Unix/iSeries user accounts & access management
-
----
-
-## 📊 GitHub Stats
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohu2405&show_icons=true&theme=tokyonight)
-
----
-
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Patel-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohit-kumar-patel-730753220)
-[![GitHub](https://img.shields.io/badge/GitHub-rohu2405-black?style=flat&logo=github)](https://github.com/rohu2405)
-
----
-
-⭐ *"Knowledge can never be waste"* — Rohit Patel 🔥
+⭐ If you like my projects, feel free to star and follow.
